@@ -82,8 +82,8 @@
 
 ## 📖 스터디 및 학습 자료
 
-- [Swift 문법 스터디 자료](https://www.naver.com)
-- [iOS 스터디 자료](https://www.naver.com)
+- [Swift 문법 스터디 자료](https://inexpensive-galaxy-e6e.notion.site/Swift-3-59043582fcc24d929a77ba2fe3c1535b)
+- [iOS 스터디 자료](https://bouncy-atmosphere-6ef.notion.site/UIKit-2bbd0c7841c74e6ab396d0ef08ca0fab)
 
 ---
 
