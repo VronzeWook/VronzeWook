@@ -6,7 +6,8 @@
 
 - **이름:** 이동욱  
 - **이메일:** mg6095@naver.com  
-- **블로그:** [https://blog.naver.com/mg6095](https://blog.naver.com/mg6095) *(일상 및 개발 회고를 기록하고 있습니다.)*
+- **블로그:** [https://blog.naver.com/mg6095](https://blog.naver.com/mg6095)
+  *(일상 회고를 주로 기록하고 있습니다.)*
 
 저는 주로 **iOS 개발과 Spring 기반의 백엔드 개발**에 관심을 갖고 있으며, 효율적이고 유지보수 가능한 코드를 통해 실질적인 문제를 해결하는 것을 목표로 합니다.
 
