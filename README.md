@@ -99,6 +99,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[chanel0222@naver.com]&layout=compact&theme=github_dark)
 
+![VronzeWook's GitHub stats](https://github-readme-stats.vercel.app/api?username=VronzeWook&show_icons=true)
+
 ---
 
 💬 추가 정보나 궁금한 점은 언제든지 연락 주세요! 😊
