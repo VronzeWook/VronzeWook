@@ -82,7 +82,7 @@
 ## 📖 스터디 및 학습 자료
 
 - [Swift 문법 스터디 자료](https://www.naver.com)
-- [iOS 스터디 자료](#)
+- [iOS 스터디 자료](https://www.naver.com)
 
 ---
 
@@ -95,9 +95,9 @@
 
 ## 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[GitHub아이디]&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[VronzeWook]&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHub아이디]&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[VronzeWook]&layout=compact&theme=github_dark)
 
 ---
 
