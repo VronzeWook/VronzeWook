@@ -40,7 +40,7 @@
   - WatchOS를 위한 별도 호흡 애니메이션 구현
   - 시연을 위한 Mockup Data 삽입용 별도 앱 개발
   - 알림 기능 구현 및 연동
-- **주요 이슈 해결:** Serial Queue를 활용한 비동기 처리로 HealthKit 중복 알림 해결
+- **주요 이슈 해결:** [Serial Queue를 활용한 비동기 처리로 HealthKit 중복 알림 해결](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A7-92NMS/pull/154)
 
 ### 🧩 **Legopia | 레고 수집 관리 앱**
 - **기간:** 2024.04 ~ 2024.05
