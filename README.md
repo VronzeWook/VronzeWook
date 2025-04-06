@@ -32,7 +32,7 @@
 ## 📚 주요 프로젝트
 
 
-<img width="5280" alt="sphaInfo" src="https://github.com/user-attachments/assets/86372841-abf5-449a-a609-ce19ecea84c1" />
+<img width="4280" alt="sphaInfo" src="https://github.com/user-attachments/assets/86372841-abf5-449a-a609-ce19ecea84c1" />
 
 ### 💡 **Spha | 호흡 기반 스트레스 관리 앱**
 - **기간:** 2024.09 ~ 2024.12
