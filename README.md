@@ -31,9 +31,10 @@
 
 ## 📚 주요 프로젝트
 
-
-<img width="4280" alt="sphaInfo" src="https://github.com/user-attachments/assets/86372841-abf5-449a-a609-ce19ecea84c1" />
-
+ <br>
+<img width="3280" alt="sphaInfo" src="https://github.com/user-attachments/assets/86372841-abf5-449a-a609-ce19ecea84c1" />
+ <br>
+ 
 ### 💡 **Spha | 호흡 기반 스트레스 관리 앱**
 - **기간:** 2024.09 ~ 2024.12
 - **기술:** Swift, SwiftUI, HealthKit
@@ -44,9 +45,11 @@
   - 시연을 위한 Mockup Data 삽입용 별도 앱 개발
   - 알림 기능 구현 및 연동
 - **주요 이슈 해결:** [Serial Queue를 활용한 비동기 처리로 HealthKit 중복 알림 해결](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A7-92NMS/pull/154)
-
-
-![스크린샷 2025-04-06 오전 11 41 46](https://github.com/user-attachments/assets/f30249f3-40e8-4ffb-88fe-bff67d275a46)
+  
+ <br>
+ <br>
+<img width="1920" alt="legopiaInfo" src="https://github.com/user-attachments/assets/5362da16-359d-40f7-9204-6d5d6a85e2a7" />
+ <br>
 
 ### 🧩 **Legopia | 레고 수집 관리 앱**
 - **기간:** 2024.04 ~ 2024.05
@@ -59,8 +62,10 @@
   - API 연동 및 검색 기능 테스트 구현
 - **기여 활동:** SwiftData 사용법 세션 진행, 발표 부스 기획
 
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/006317b2-e6da-4c89-ac82-08fbc80f20f1)
-
+<br>
 ### 🎭 **Madang | 공연 예술 리뷰 플랫폼**
 - **기간:** 2024.07 ~ 2024.08
 - **기술:** Swift, Firebase
