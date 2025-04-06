@@ -48,7 +48,7 @@
   
  <br>
  <br>
-<img width="1920" alt="legopiaInfo" src="https://github.com/user-attachments/assets/5362da16-359d-40f7-9204-6d5d6a85e2a7" />
+<img width="1220" alt="legopiaInfo" src="https://github.com/user-attachments/assets/5362da16-359d-40f7-9204-6d5d6a85e2a7" />
  <br>
 
 ### 🧩 **Legopia | 레고 수집 관리 앱**
