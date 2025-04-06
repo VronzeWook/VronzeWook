@@ -64,7 +64,7 @@
 
 <br>
 <br>
-<img width="585" alt="스크린샷 2025-04-06 오후 12 16 56" src="https://github.com/user-attachments/assets/555b27c0-1a6a-48d5-9257-d40356e2c785" />
+<img width="885" alt="스크린샷 2025-04-06 오후 12 16 56" src="https://github.com/user-attachments/assets/555b27c0-1a6a-48d5-9257-d40356e2c785" />
 <br>
 ### 🎭 **Madang | 공연 예술 리뷰 플랫폼**
 - **기간:** 2024.07 ~ 2024.08
